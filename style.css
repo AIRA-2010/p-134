@@ -1,0 +1,27 @@
+
+.heading
+{
+font-size: 33px;
+width: 80%;
+margin: 0px;
+background-color: rgb(255, 0, 123);
+color: rgb(0, 255, 238);
+border-radius: 15px;
+}
+
+#status,#no_of_objects
+{
+font-size: 20px;
+width: 20%;
+border-radius: 10px;
+}
+body{
+    background-size: cover;
+    background-position: center;
+}
+canvas{
+    background-color: aliceblue;
+    border: 3px double dodgerblue;
+    margin: 10px;
+    border-radius: 19px;
+}
